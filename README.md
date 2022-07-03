@@ -8,5 +8,4 @@ At the same time, the algorithm evaluates the moves that lead to a terminal stat
 With the help of this backtracking algorithm, it ensures that it becomes "unbeatable".
 ## Link: <br>
 Here's a quick link to the application:
-* https://tic-tac-toe-3.netlify.app/
-<br> It uses simple tools such as HTML, CSS and JS
+* (https://unbeatable-tic-tac-toe-using-minimax.netlify.app/)
