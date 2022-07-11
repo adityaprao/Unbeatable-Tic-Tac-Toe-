@@ -7,5 +7,5 @@ At the same time, the algorithm evaluates the moves that lead to a terminal stat
 
 With the help of this backtracking algorithm, it ensures that it becomes "unbeatable".
 ## Link: <br>
-Here's a quick link to the application:
+Here's a link to the application:
 * (https://unbeatable-tic-tac-toe-using-minimax.netlify.app/)
